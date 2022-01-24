@@ -1,0 +1,11 @@
+.hedding{
+    color: red;
+    background: green;
+    position: absolute;
+    display: block;
+    transition:0.5s;
+}
+
+.hedding:hover{
+  color:#ff5200 ;
+}
